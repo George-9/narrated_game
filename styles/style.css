@@ -1,0 +1,27 @@
+html,
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  align-items: center;
+  display: inline-flex;
+  padding: 32px;
+  justify-self: center;
+  justify-content:space-evenly;
+}
+
+p {
+  align-self: center;
+  align-content: center;
+}
+
+div {
+  padding: 10px;
+}
+
+button {
+  margin: 4px;
+  border: 6px solid rgb(220, 248, 233);
+  color: beige;
+  border-radius: 10px;
+  background-color: rgb(42, 71, 165);
+}
